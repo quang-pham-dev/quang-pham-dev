@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-- 🔭 I’m currently working at [RestfulMind 📌](https://restfulmind.co/) as a Senior Software Engineer.
+- 🔭 I’m currently working at [Glo Digital 📌](https://glo.com/) as a Senior Software Engineer.
 - 🚀 I'm passionate about building products and making meaningful contributions to life through technology.
 - 🌱 I'm expanding my knowledge in AI and Machine Learning, focusing on practical applications in software engineering.
 

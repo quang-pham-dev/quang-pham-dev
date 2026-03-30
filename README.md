@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,20&text=Quang%20Pham&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Web%20Platform%20Lead&descSize=20&descAlignY=55&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Building+scalable+web+platforms+with+React+and+Next.js;Frontend+Lead+%7C+Technical+Partner+for+Startups;Web+and+Mobile+Engineer+%7C+React+Native+%7C+Node.js;Architecture+Performance+and+Developer+Experience" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Building+AI-native+scalable+web+platforms;Frontend+Lead+%7C+Architecture+%7C+DX+at+scale;AI-assisted+development+with+Cursor+and+Claude;Web+%2B+Mobile+Engineer+%7C+React+Native+%7C+Node.js" />
 </a>
 
 <br/>
@@ -14,20 +14,19 @@
 
 ----
 # Hi 👋 I'm Quang Pham
+**Senior Software Engineer • Frontend Architect • AI-Native Builder • Web Platform Lead**
 
-**Senior Software Engineer • Frontend Architect • Web Platform Lead**
+I design and build **scalable, high-performance web platforms** — combining modern frontend architecture with **AI-native development workflows**.
 
-I design and build scalable web platforms and high-performance frontend architectures.
 
-**🏗 Architecture I Build**: 
-Scalable Web Platforms • Headless CMS Systems • Video Platforms • Developer Tools & CLI Ecosystems
+**Focus**  
+AI-powered web platforms • Scalable React architectures • Developer experience at scale  
 
-**⚙️ Tech**: 
-React • Next.js • TypeScript • React Native
-Node.js • NestJS • AWS • CI/CD • Monorepos
+**Tech**  
+React • Next.js • TypeScript • React Native • Node.js • NestJS • AWS • CI/CD  
 
-**🎯 Current Focus**: 
-AI-powered web platforms • Scalable React architectures • Developer experience (DX) at scale
+**AI Workflow**  
+Cursor • Claude Code • AI-assisted development, refactoring, and system design  
 
 **💪 Proven Track Record**
 - 230+ merged pull requests across **[@seaguntech](https://github.com/seaguntech)** ecosystem
@@ -35,12 +34,8 @@ AI-powered web platforms • Scalable React architectures • Developer experien
 - Expertise in component libraries, AI-driven tooling, and intelligent automation systems
 
 **🤝 Connect**
-LinkedIn: [https://linkedin.com/in/quang-pham-dev](https://linkedin.com/in/quang-pham-dev)
+LinkedIn: [https://linkedin.com/in/quang-pham-dev](https://linkedin.com/in/quang-pham-dev) - 
 Portfolio: [https://quangpham.dev](https://quangpham.dev)
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quang-pham-dev&layout=compact" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api?username=quang-pham-dev&show_icons=true&hide_title=true" height="160" />
-</p>

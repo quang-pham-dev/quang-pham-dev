@@ -7,9 +7,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=quang-pham-dev&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/quang-pham-dev?style=for-the-badge&color=38bdae&labelColor=1a1b27)](https://github.com/quang-pham-dev?tab=followers)
-
 </div>
 
 ----
